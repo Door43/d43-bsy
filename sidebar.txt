@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bsy:home|Door43 (bsy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bsy|d43-bsy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bsy/archive/master.zip|d43-bsy.zip]]
+
+**Recent Changes**
+{{changes>ns = bsy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bsy|Ethnologue data]]
+
